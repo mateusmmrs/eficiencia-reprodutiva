@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/rebanho_completo_debug.csv
+models/*.pkl
+.env
